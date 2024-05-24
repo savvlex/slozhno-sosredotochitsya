@@ -189,8 +189,8 @@
 	display: grid;
 	place-items: center;
 	height: 100vh;
-	padding: clamp(10px, 0.029rem + 2.56vw, 20px);
 	min-height: 668px;
+	padding: clamp(10px, 0.029rem + 2.56vw, 20px);
 }
 
 @media (width >= 768px) {
@@ -248,16 +248,16 @@
 	}
 
 	.header__theme-menu {
-		align-self: start;
 		justify-self: center;
+		align-self: start;
 	}
 
 	.header__theme-menu-list {
 		flex-direction: row;
 	}
 
-	.screen-spread .block-title {
-		width: 315px;
+	.screen-spread .block__title {
+		width: 275px;
 	}
 
 	.screen-spread .block__part {
