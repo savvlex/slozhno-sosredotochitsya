@@ -1,7 +1,7 @@
 body {
 	--font-family: 'IBM Plex mono', monospace;
 	--background-image: url('../images/cover-image-dark.png');
-	--recording_deco-visibility: visible;
+	--decor-visibility: visible;
 	--color-shadow: #ff0070;
 	--color-block: #ff0070;
 	--color-block-title: #ff0070;
@@ -10,5 +10,5 @@ body {
 	--color-text-main: #f1b2ce;
 	--background-color: #000028;
 	--color-decor: #ff0070;
-	--color-hover: #ff007040;
+	--color-hover: #ff007066;
 }
