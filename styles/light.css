@@ -14,7 +14,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-	:root {
+	.page {
     --background-image: url('../images/cover-image-light.png');
 		--font-family: 'IBM Plex mono', monospace;
 		--recording_deco-visibility: hidden;
